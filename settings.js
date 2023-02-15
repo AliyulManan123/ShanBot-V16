@@ -18,16 +18,15 @@ global.packname = 'Lenttobs'
 global.footer = '©Maslent'
 global.ovo = "628xxx"
 global.ownerlen = "Maslent/Lenttobs"//Ubah
-global.owner = ['628xxxxxxxxx'] //ubh nomor owner hp
+global.owner = ['6285655620413'] //ubh nomor owner hp
 global.ownername = "Lenttobs" //ubah
 global.ytname = "YT: lenttobs"//ubah
 global.socialm = "IG: vlntncptr"//ubah
 global.location = "Indonesia, Jawatimur, Lumajang"//ubah
-global.ownernomer = "628xxxxxxx"//ubah nomorhp owner
+global.ownernomer = "6285655620413"//ubah nomorhp owner
 global.premium = ['6285xxxxxxx3']//ubah nomor hp premium
-global.nomorcs = '628xxxxxxx'
 global.botname = 'BotWhangsafV13' //ubah
-global.linkz = "Link Gc"//ubah
+global.linkz = "https://chat.LINK BOKEP/LINKGC WA"//ubah
 global.websitex = "yt mu"//ubah
 global.botscript = '-'
 global.themeemoji = "😿"//ubah
@@ -48,7 +47,7 @@ global.mess = {
     bot: 'This feature could be used by bot only',
     wait: 'In process...',
     linkm: 'Where is the link?',
-    endLimit: 'Upss Limit Kamu sudah habis..Tunggu Waktu menunjukan Pukul 12:00 Limit Anda otomatis akan Di reset!!!',
+    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
 }
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
